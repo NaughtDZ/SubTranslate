@@ -1,0 +1,20 @@
+1
+00:00:01,000 --> 00:00:03,500
+<i>Hello</i>, world!
+
+2
+00:00:04,000 --> 00:00:06,200
+This is a test of the subtitle translator.
+
+3
+00:00:07,000 --> 00:00:09,000
+Second line
+after a line break.
+
+4
+00:00:10,000 --> 00:00:12,000
+Are you sure about that?
+
+5
+00:00:13,000 --> 00:00:15,000
+OK.

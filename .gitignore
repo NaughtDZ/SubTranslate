@@ -1,0 +1,18 @@
+# build / venv
+.venv-build/
+build/
+dist/
+_build_baseline/
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# local test / runtime
+_test_*.json
+_test_cache.json
+_test_config.json
+*.log
+.DS_Store
+Thumbs.db

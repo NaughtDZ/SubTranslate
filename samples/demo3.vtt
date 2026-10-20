@@ -1,0 +1,7 @@
+WEBVTT - demo
+
+00:00:01.000 --> 00:00:03.500 align:middle
+<i>Hello</i>, world!
+
+00:00:04.000 --> 00:00:06.200
+This is a test of the subtitle translator.
